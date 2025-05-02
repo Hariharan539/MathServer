@@ -127,7 +127,7 @@ urlpatterns = [
 
 
 ## HOMEPA!
-[alt text](<Screenshot 2025-05-02 152212.png>)GE:
+![Screenshot 2025-05-02 152212](https://github.com/user-attachments/assets/669d3544-2e98-4f2d-a134-21f81be5ac55)
 
 
 
